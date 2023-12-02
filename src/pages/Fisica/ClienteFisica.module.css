@@ -1,0 +1,43 @@
+.informacoes {
+  gap: 0.3em;
+  padding: 0.3em 0em;
+}
+.destaque {
+  font-weight: bold;
+  color: #393939;
+}
+
+.certificados {
+  width: 40%;
+}
+.certificadosTable {
+  width: 100%;
+}
+.adicionarButton {
+  width: 100%;
+}
+.funcionarios {
+  width: 100%;
+}
+.titulo {
+  color: #222;
+}
+
+.input::placeholder {
+  text-align: center;
+}
+
+@media (width <= 1080px) {
+  .conteudo {
+    gap: 1.5em;
+  }
+  .certificados {
+    width: 100%;
+  }
+  .dados {
+    width: 23em;
+  }
+  .titulo {
+    text-align: center;
+  }
+}

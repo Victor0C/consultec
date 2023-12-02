@@ -1,0 +1,12 @@
+.copy{
+    color:  #6b6969
+  }
+  .copy:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    color:  #2256f2;
+  }
+  .copy:active {
+    color:  #000000;
+    
+  }

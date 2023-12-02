@@ -1,0 +1,15 @@
+  .titulo {
+    color: #222;
+  }
+  .tabela{
+    max-height: 400px;
+  }
+  
+  
+  @media (width <= 1080px) {
+    .titulo{
+      text-align: center;
+    }
+    
+  }
+  

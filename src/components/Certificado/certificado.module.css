@@ -1,0 +1,29 @@
+.certificados {
+  width: 100%;
+}
+
+.titulo {
+  color: #222;
+}
+
+.certificadosTable {
+  width: 100%;
+}
+.adicionarButton {
+  width: 100%;
+}
+
+@media (width <= 1080px) {
+  .certificados {
+    width: 100%;
+  }
+  .titulo {
+    text-align: center;
+  }
+  .certificadosTable {
+    width: 100%;
+  }
+  .certificadoMobile{
+    width: 100%;
+  }
+}

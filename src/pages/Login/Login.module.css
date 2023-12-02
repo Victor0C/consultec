@@ -1,0 +1,424 @@
+@media (min-width: 320px) {
+
+  .logoImage {
+    position: fixed;
+    top: 190px; 
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    z-index: 3; 
+    width: 80%; 
+    max-width: 425px; 
+  }
+
+  .background {
+    position: fixed;
+    top: 100px;
+    margin-left: 0px;
+    width: 100%;
+    height: 100%;
+    max-height: 50px;
+    z-index: 1;
+    max-width: 425px; 
+  }
+
+  .cardComponent {
+    position: fixed;
+    top: 55%;
+    left: 50%;
+    transform: translate(-51%, -50%);
+    z-index: 2;
+    background-color: #F2F2F2;
+    width: 80%; 
+    max-width: 425px; 
+  }
+
+  .botao {
+    background: linear-gradient(180deg, #2256f2 0%, #4674ff 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+    width: 80%; 
+    max-width: 425px; 
+    margin: 20px auto; 
+  }
+
+  .cadernetaImage {
+    width: 138%;
+    margin-left: -19.5%;
+  }
+
+}
+
+@media (min-width: 800px)  {
+
+  .logoImage {
+    position: fixed;
+    top: 40%; 
+    left: 30%;
+    right: 50%;
+    transform: translateX(-50%);
+    z-index: 3; 
+    width: 50%; 
+    max-width: 800px; 
+  }
+
+  .background {
+    position: fixed;
+    top: 15%;
+    margin-left: 62%;
+    width: 35%;
+    height: 100%;
+    z-index: 1;
+    max-width: 800px; 
+  }
+
+  .cardComponent {
+    position: fixed;
+    top: 50%;
+    left: 79.6%;
+    transform: translate(-51%, -50%);
+    z-index: 2;
+    background-color: #F2F2F2;
+    width: 35%; 
+    max-width: 800px; 
+  }
+
+  .botao {
+    background: linear-gradient(180deg, #2256f2 0%, #4674ff 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+    width: 80%; 
+    max-width: 425px; 
+    margin: 20px auto; 
+  }
+
+  .cadernetaImage {
+    width: 138%;
+    margin-left: -19.5%;
+  }
+
+}
+
+@media (min-width: 1024px) {
+
+  .logoImage {
+    position: fixed;
+    top: 40%; 
+    left: 30%;
+    right: 50%;
+    transform: translateX(-50%);
+    z-index: 3; 
+    width: 50%; 
+    max-width: 800px; 
+  }
+
+  .background {
+    position: fixed;
+    top: 15%;
+    margin-left: 62%;
+    width: 35%;
+    height: 100%;
+    z-index: 1;
+    max-width: 800px; 
+  }
+
+  .cardComponent {
+    position: fixed;
+    top: 50%;
+    left: 79.6%;
+    transform: translate(-51%, -50%);
+    z-index: 2;
+    background-color: #F2F2F2;
+    width: 35%; 
+    max-width: 800px; 
+  }
+
+  .botao {
+    background: linear-gradient(180deg, #2256f2 0%, #4674ff 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+    width: 80%; 
+    max-width: 425px; 
+    margin: 20px auto; 
+  }
+
+  .cadernetaImage {
+    width: 138%;
+    margin-left: -19.5%;
+  }
+
+}
+
+
+@media (min-width: 1280px)  {
+
+  .logoImage {
+    position: fixed;
+    top: 40%; 
+    left: 30%;
+    right: 50%;
+    transform: translateX(-50%);
+    z-index: 3; 
+    width: 50%; 
+    max-width: 800px; 
+  }
+
+  .background {
+    position: fixed;
+    top: 6%;
+    margin-left: 62%;
+    width: 35%;
+    height: 100%;
+    z-index: 1;
+    max-width: 800px; 
+  }
+
+  .cardComponent {
+    position: fixed;
+    top: 50%;
+    left: 79.6%;
+    transform: translate(-51%, -50%);
+    z-index: 2;
+    background-color: #F2F2F2;
+    width: 35%; 
+    max-width: 800px; 
+  }
+
+  .botao {
+    background: linear-gradient(180deg, #2256f2 0%, #4674ff 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+    width: 80%; 
+    max-width: 425px; 
+    margin: 20px auto; 
+  }
+
+  .cadernetaImage {
+    width: 138%;
+    margin-left: -19.5%;
+  }
+
+}
+
+
+@media (min-width: 1360px){
+
+  .logoImage {
+    position: fixed;
+    top: 38%; 
+    left: 30%;
+    right: 50%;
+    transform: translateX(-50%);
+    z-index: 3; 
+    width: 40%; 
+    max-width: 700px; 
+  }
+
+  .background {
+    position: fixed;
+    top: 4%;
+    margin-left: 62%;
+    width: 35%;
+    height: 100%;
+    z-index: 1;
+    max-width: 800px; 
+  }
+
+  .cardComponent {
+    position: fixed;
+    top: 50%;
+    left: 79.6%;
+    transform: translate(-51%, -50%);
+    z-index: 2;
+    background-color: #F2F2F2;
+    width: 35%; 
+    max-width: 800px; 
+  }
+
+  .botao {
+    background: linear-gradient(180deg, #2256f2 0%, #4674ff 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+    width: 80%; 
+    max-width: 425px; 
+    margin: 20px auto; 
+  }
+
+  .cadernetaImage {
+    width: 120%;
+    margin-left: -10.5%;
+  }
+
+}
+
+@media (min-width: 1440px) {
+
+  .logoImage {
+    position: fixed;
+    top: 40%; 
+    left: 30%;
+    right: 50%;
+    transform: translateX(-50%);
+    z-index: 3; 
+    width: 50%; 
+    max-width: 800px; 
+  }
+
+  .background {
+    position: fixed;
+    top: 4%;
+    margin-left: 62%;
+    width: 35%;
+    height: 100%;
+    z-index: 1;
+    max-width: 800px; 
+  }
+
+  .cardComponent {
+    position: fixed;
+    top: 50%;
+    left: 76.4%;
+    transform: translate(-51%, -50%);
+    z-index: 2;
+    background-color: #F2F2F2;
+    width: 30%; 
+    max-width: 800px; 
+  }
+
+  .botao {
+    background: linear-gradient(180deg, #2256f2 0%, #4674ff 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+    width: 80%; 
+    max-width: 425px; 
+    margin: 20px auto; 
+  }
+
+  .cadernetaImage {
+    width: 120%;
+    margin-left: -19.5%;
+  }
+
+}
+
+@media (min-width: 1920px) {
+
+  .logoImage {
+    position: fixed;
+    top: 40%; 
+    left: 30%;
+    right: 50%;
+    transform: translateX(-50%);
+    z-index: 3; 
+    width: 50%; 
+    max-width: 800px; 
+  }
+
+  .background {
+    position: fixed;
+    top: 17%;
+    margin-left: 62%;
+    width: 35%;
+    height: 100%;
+    z-index: 1;
+    max-width: 800px; 
+  }
+
+  .cardComponent {
+    position: fixed;
+    top: 50%;
+    left: 70.5%;
+    transform: translate(-51%, -50%);
+    z-index: 2;
+    background-color: #F2F2F2;
+    width: 20%; 
+    max-width: 800px; 
+  }
+
+  .botao {
+    background: linear-gradient(180deg, #2256f2 0%, #4674ff 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+    width: 80%; 
+    max-width: 425px; 
+    margin: 20px auto; 
+  }
+
+  .cadernetaImage {
+    width: 80%;
+    margin-left: -16%;
+  }
+
+}
+
+@media (min-width: 2500px) {
+
+  .logoImage {
+    position: fixed;
+    top: 40%; 
+    left: 30%;
+    right: 50%;
+    transform: translateX(-50%);
+    z-index: 3; 
+    width: 50%; 
+    max-width: 800px; 
+  }
+
+  .background {
+    position: fixed;
+    top: 8%;
+    margin-left: 62%;
+    width: 35%;
+    height: 80%;
+    z-index: 1;
+    max-width: 800px; 
+  }
+
+  .cardComponent {
+    position: fixed;
+    top: 45%;
+    left: 70%;
+    transform: translate(-51%, -50%);
+    z-index: 2;
+    background-color: #F2F2F2;
+    width: 22%; 
+    height: 30%;
+    max-width: 800px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .botao {
+    background: linear-gradient(180deg, #2256f2 0%, #4674ff 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+    width: 80%; 
+    max-width: 425px; 
+    margin: 20px auto; 
+  }
+
+  .cadernetaImage {
+    width: 90%;
+    margin-left: -19.5%;
+  }
+
+  .cardComponent form {
+    width: 100%; /* Ajuste a largura do formulário conforme necessário */
+    height: 65%; /* Ajuste a altura do formulário conforme necessário */
+}
+
+.cardComponent form input {
+  width: 100%; /* Ajuste a largura dos inputs, selects e textareas conforme necessário */
+  padding: 15px; /* Ajuste o padding conforme necessário */
+  margin-bottom: 10px; /* Ajuste a margem inferior conforme necessário */
+  font-size: 20px; /* Ajuste o tamanho da fonte conforme necessário */
+
+}
+.cardComponent form select {
+  width: 100%; /* Ajuste a largura dos inputs, selects e textareas conforme necessário */
+  padding: 15px; /* Ajuste o padding conforme necessário */
+  margin-bottom: 10px; /* Ajuste a margem inferior conforme necessário */
+  font-size: 20px; /* Ajuste o tamanho da fonte conforme necessário */
+
+}
+.cardComponent form textarea {
+    width: 100%; /* Ajuste a largura dos inputs, selects e textareas conforme necessário */
+    padding: 15px; /* Ajuste o padding conforme necessário */
+    margin-bottom: 10px; /* Ajuste a margem inferior conforme necessário */
+    font-size: 20px; 
+  }
+}
